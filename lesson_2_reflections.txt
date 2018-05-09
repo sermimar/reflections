@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+- Se crea una carpeta oculta con las cosas necesarias para el registro. Lo necesitamos para ir registrando los commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+La Staging area recoge el contenido del commit que no tiene por qué ser el total del working directory
+https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf
